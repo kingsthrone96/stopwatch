@@ -9,7 +9,7 @@ const resumeBtn = document.getElementById("resume");
 
 let hours = 0;
 let minutes = 0;
-let seconds = 55;
+let seconds = 0;
 
 let startTimer;
 
