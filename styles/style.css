@@ -44,6 +44,10 @@
   background-color: #1091b9;
 }
 
+#btns > #resume {
+  background-color: #bdac1b;
+}
+
 #btns > #stop {
   background-color: #c20202;
 }
